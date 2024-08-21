@@ -3,7 +3,6 @@
  * PHP can accept variables in function arguments by various methods.
  * 
  * 1. Pass By Value - its the generic form.
- * 
  */
 
 // 2. Pass By Reference
