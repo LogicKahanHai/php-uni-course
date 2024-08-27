@@ -5,7 +5,3 @@
 ---
 PHP is a single inheritance language.
 
-
-
-## Traits
----
